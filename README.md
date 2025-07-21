@@ -1,6 +1,26 @@
 <h1 align="center">Hi 👋, I'm Sam De Guzman</h1>
 <h3 align="center">Full Stack Web Developer</h3>
-<p align="center">I'm an experienced full stack web2/web3 developer with 4 years of experience, and currently navigating the constant changes with the web technologies, while maintaining efficient with the projects I'm working on. Thank you for taking a visit to my Github Profile! </p>
+<p align="center">👋 Hi, I’m Samuel Mark.
+
+I’m a web developer who enjoys building clean, fast, and scalable applications that people love using. My experience spans Next.js, NestJS, TailwindCSS, and AWS, with a focus on shipping practical, user-focused features while maintaining clear architecture.
+
+Previously, I worked on Arcadia (OPGames), a decentralized arcade platform, where I:
+
+Built and maintained platform components (onboarding, games, tournaments, leaderboards, game jams).
+
+Integrated robust wallet connections and NFT standards using ethers.js and web3modal.
+
+Deployed and maintained a CMS for managing tournaments and marketplace items.
+
+Helped optimize performance for responsive, mobile-friendly game delivery.
+
+Beyond shipping features, I care about writing clear, maintainable code, and understanding what truly serves users—whether it’s a smoother onboarding flow or scaling infrastructure for real-time features.
+
+Currently, I’m exploring Solidity, Supabase, and advanced frontend performance practices to continue growing in building reliable, delightful web experiences.
+
+If you’re building something that helps people learn, create, or connect, I’d love to hear about it.
+
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam-deguzman&label=Profile%20views&color=0e75b6&style=flat" alt="sam-deguzman" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sam-deguzman" alt="sam-deguzman" /></a> </p>
