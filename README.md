@@ -17,9 +17,9 @@ Full-stack engineer with 5 years building production systems, from greenfield Sa
 - **Data dashboards & DeFi** (team): production dashboards and blockchain integrations in distributed teams.
 ## Tech stack
  
-**Core:** TypeScript · React · Next.js · NestJS · Node.js · PostgreSQL · Tailwind CSS
-**Cloud & AI:** GCP · Vertex AI · AWS · Docker
-**Testing & tooling:** Playwright · Postman · Claude Code · Antigravity · MCP
+**Core:** TypeScript · React · Next.js · NestJS · Node.js · PostgreSQL · Tailwind CSS </br>
+**Cloud & AI:** GCP · Vertex AI · AWS · Docker </br>
+**Testing & tooling:** Playwright · Postman · Claude Code · Antigravity · MCP </br>
 **Web3:** ethers.js · Viem · web3modal · Solidity
  
 <p align="left">
